@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042490983306",
+    "project_id": "sneakers-track",
+    "storage_bucket": "sneakers-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042490983306:android:166c90b4ac381d5fc4be73",
+        "android_client_info": {
+          "package_name": "com.example.sneakers_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042490983306-o1jt5c2qo3531toph5r7re2oci7tl7tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j5k7GzbiqXObFnmsomP2NqlBLV2-oQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042490983306-o1jt5c2qo3531toph5r7re2oci7tl7tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
